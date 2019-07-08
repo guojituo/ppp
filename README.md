@@ -3,9 +3,9 @@ Official websize
 （https://ppp.samba.org/index.html）
 
 ## pppd download
-<br> https \<br>
+https
 (https://download.samba.org/pub/ppp/)
-<br> github \<br>
+github
 (https://github.com/paulusmack/ppp/)
 
 
